@@ -1,0 +1,10 @@
+State management using Redux:
+-> createStore
+-> combineReducers
+-> Reducers - initialState, reducer, ActionTypes
+-> Thunk middleware -> actions
+
+Toolkit:
+-> configureStore
+-> slice
+-> createAsyncThunk

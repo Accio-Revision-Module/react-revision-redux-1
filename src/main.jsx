@@ -4,7 +4,7 @@ import App from './App.jsx'
 import './index.css'
 import CounterProvider from './contexts/CounterContext.jsx'
 import { Provider } from 'react-redux'
-import { store } from './store/index.js'
+import { store } from './store-toolkit/index.js'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
